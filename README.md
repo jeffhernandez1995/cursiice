@@ -1,7 +1,7 @@
 # cursiice
 Curso para el IISE ESPOL
 
-**Requiere las siguientes librerias de python**
+**Requiere las siguientes librerias de python (solo para resolver problemas de programación lineal y entera)**
 
 * pandas
 * lxml
@@ -9,3 +9,7 @@ Curso para el IISE ESPOL
 * requests
 * pulp
 * xlrd
+
+
+**Para integrar macros con python**
+* xlwings
